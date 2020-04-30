@@ -15,7 +15,7 @@
     "axios": "^0.18.0",
     "core-js": "^2.6.5",
     "ionicons": "^4.5.8",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "reset-css": "^4.0.1",
     "sticky-sidebar": "^3.3.1",
